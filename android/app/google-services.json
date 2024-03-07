@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "490267905091",
+    "project_id": "first---app",
+    "storage_bucket": "first---app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490267905091:android:fa711899d3dd6743cfd8f6",
+        "android_client_info": {
+          "package_name": "com.example.tem_technologies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490267905091-rkmjqfhnsr96s8bc30sf7iv38jqc9opn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBB7SiY9pbMSojErkSjSf66aVTH-_FteE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490267905091-rkmjqfhnsr96s8bc30sf7iv38jqc9opn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490267905091-0r8ud9jmt1p2lokpla2vn7b7d6f66pqd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.firebasedemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490267905091:android:6eedeb2d3d3430c7cfd8f6",
+        "android_client_info": {
+          "package_name": "com.flutterflow.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490267905091-rkmjqfhnsr96s8bc30sf7iv38jqc9opn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBB7SiY9pbMSojErkSjSf66aVTH-_FteE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490267905091-rkmjqfhnsr96s8bc30sf7iv38jqc9opn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490267905091-0r8ud9jmt1p2lokpla2vn7b7d6f66pqd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.firebasedemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
